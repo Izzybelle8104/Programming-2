@@ -3,9 +3,9 @@ This Git repository hosts a project developed as part of the Programming Fundame
 
 Key Features:
 
-Reading and writing TGA files in C++
-Implementing image manipulation algorithms such as Multiply, Screen, Subtract, Addition, and Overlay
-Handling data types and clamping to prevent overflow during operations
+* Reading and writing TGA files in C++
+* Implementing image manipulation algorithms such as Multiply, Screen, Subtract, Addition, and Overlay
+* Handling data types and clamping to prevent overflow during operations
 
 This project offers a hands-on opportunity to apply C++ concepts in image processing, providing a foundational understanding of binary file manipulation and command-line interface development.
 
