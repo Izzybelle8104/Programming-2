@@ -34,7 +34,7 @@ Key Features:
 * Efficient traversal and manipulation algorithms to enhance the performance and versatility of the data structure.
 
 
-## Image_Processing:
+## Image Processing:
 The project focuses on manipulating binary image files, specifically TGA files, using C++. The aim is to implement algorithms for reading, modifying, and writing these image files, thereby creating a command-line interface for users to perform various image manipulations.
 
 Key Features:
@@ -44,7 +44,7 @@ Key Features:
 * Handling data types and clamping to prevent overflow during operations
 
 
-## Minesweeper_game:
+## Minesweeper Game:
 I made the classic Minesweeper game showcasing a blend of strategy and logic. This project presents a fully functional rendition of the beloved game, where players navigate a grid filled with hidden mines, using clues to uncover safe tiles while avoiding explosive hazards.
 
 Key Features:
