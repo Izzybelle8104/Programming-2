@@ -4,14 +4,6 @@
 #include <string>
 #include <algorithm>
 
-//class Contact {
-//    // Write the class
-//private:
-//    std::string _name;
-//    std::string _number;
-
-//public:
-
 //constructor
 Contact::Contact(std::string name, std::string number){
     _name = name;
@@ -36,14 +28,6 @@ void Contact::C_Display(){
 }
 
 //CLASS 2
-
-//class ContactBook {
-//    //pointers only
-//private:
-//    static const int MAX_SIZE = 100;
-//    Contact* contacts[MAX_SIZE];
-//    unsigned int curr_size = 0;
-
 
 //Constructor
 ContactBook::ContactBook() {
@@ -87,7 +71,7 @@ void ContactBook::Display() {
 }
 
 void ContactBook::Alphabetize() {
-    //- sorts the array in alphabetical order based on contact name. Note that in this special
+    // sorts the array in alphabetical order based on contact name. Note that in this special
     //case, Albert would come before Alberta. This should be the only function that can alter the order
     //that the contacts are stored in the array.
     std::sort(contacts, contacts + curr_size,
